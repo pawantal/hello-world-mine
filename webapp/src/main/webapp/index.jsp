@@ -1,5 +1,4 @@
-<h1> Welcome to Valaxy Technologies </h1>
-<h2> Steup and deploy using jenkins </h2>
-<h2> Adding new line for testing purpose </h2>
+<h1> Welcome to My Tomcat EC2 </h1>
+<h2> It is done using Jenkins declarative pipeline </h2>
 
 
